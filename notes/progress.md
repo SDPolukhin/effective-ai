@@ -22,7 +22,7 @@ the last column. Modules 3, 4, 5, and 7 are exercise-heavy and deserve a session
 
 What the learner brought to the syllabus (from the first session):
 
-- Uses LLMs heavily, including agentic harnesses and RAG.
+- Has used LLMs, including agentic harnesses for a couple of projects, knows what RAG is but hasn't used it in real scenarios.
 - Has had mixed results running agents without micromanaging, even with reviewer agents
   and separated responsibilities.
 - Is unsure how well they do prompt engineering and sees it as hard to measure objectively.
