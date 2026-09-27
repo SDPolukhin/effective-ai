@@ -44,6 +44,13 @@ grow only as fast as you can cheaply verify the result.
 and finish with 9. Module 3 comes early on purpose: every later module assumes you can
 measure.
 
+## Studying with Claude Code
+
+`CLAUDE.md` sets up tutoring sessions and `notes/progress.md` tracks progress between them.
+Start a fresh session per module (or short pair) and say "continue", or name a module. The
+session reads the progress file, teaches the module interactively using your own work, and
+updates the progress file when it's done.
+
 ## How each module is laid out
 
 - **Why it matters**: the failure it prevents
