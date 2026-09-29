@@ -100,10 +100,12 @@ knowledge, and NotebookLM-style tools:
 
 ## Exercises
 
-1. **Retrieval-only eval.** For a RAG system you use or run, write 20 questions and label which
-   documents should be retrieved. Measure recall@5. Is retrieval your bottleneck?
-2. **Hybrid A/B.** If you run pure vector search, add BM25 with RRF and compare recall@5 on
-   the same 20 questions.
+1. **Retrieval-only eval.** Use a RAG system you already run, or build a minimal one over a
+   corpus you know well (a project's docs, your notes, or this syllabus): chunk it, embed it,
+   and retrieve the top 5. Write 20 questions and label which documents should be retrieved.
+   Measure recall@5. Is retrieval your bottleneck?
+2. **Hybrid A/B.** If your system uses pure vector search, add BM25 with RRF and compare
+   recall@5 on the same 20 questions.
 3. **Grounding prompt.** Rewrite a Q&A prompt to (a) put documents first, (b) require quotes,
    and (c) allow "not found." Compare hallucination rates on questions deliberately *not*
    answerable from the sources.

@@ -8,8 +8,9 @@ in each module and in [SOURCES.md](SOURCES.md).
 
 ## Who this is for
 
-You already use LLMs daily. You've tried letting agents run with less supervision, adding
-reviewer agents, and splitting responsibilities, and the results were mixed. You're not sure
+You've used LLMs, including agentic harnesses on a couple of projects. You've tried letting
+agents run with less supervision, adding reviewer agents, and splitting responsibilities,
+and the results were mixed. You're not sure
 whether your prompts are good, and prompts that an LLM wrote for you didn't work well,
 especially in user-facing sessions.
 
